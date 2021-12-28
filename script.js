@@ -15,7 +15,7 @@
 // value: "13285226"
 // }....
 
-const url =
+/* const url =
 "https://cdn.freecodecamp.org/testable-projects-fcc/data/tree_map/kickstarter-funding-data.json";
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -24,6 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // .then(data => console.log(data))
   .then(data => drawDiagram(data));
 });
+*/
 
 function drawDiagram(data) {
   //dimensions
